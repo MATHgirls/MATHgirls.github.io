@@ -1,1 +1,1 @@
-# mathgirls.github.io
+# MATHgirls.github.io
