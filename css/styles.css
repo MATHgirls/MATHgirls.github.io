@@ -1,0 +1,53 @@
+#mainlogoclick:hover{
+	-webkit-opacity: 1;
+	-moz-opacity: 1;
+	opacity: 0.8;
+}
+
+.col{
+	display:inline-block;
+	float:none;
+}
+
+body{
+	font-family: 'Slabo 27px', serif;
+}
+
+a:hover{
+	color:#F93B93;
+}
+
+.pfp{
+	margin:2em;
+}
+
+.personbox{
+	vertical-align: top;
+	display:inline-block;
+	margin: 1em;
+}
+
+p{
+	text-align:left;
+}
+
+.persontext h3, .persontext h5, .persontext p{
+	text-align: center;
+	width: inherit;
+}
+.persontext p{
+	width:17em;
+}
+
+#demo{
+	margin-bottom: 2em;
+}
+
+#mainlogoclick{
+	width:13em; height:13em; margin-top:2.5em; margin-bottom: 3em: 
+}
+
+/*Idk I feel like this is weird .-.*/
+/*#pink{
+	background-color: #ffccff;
+}*/
