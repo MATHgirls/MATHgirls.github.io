@@ -68,6 +68,8 @@ p{
 	color: black;
   }
 
+
+  .mySlides {display:none;}
 #demo{
 	margin-bottom: 2em;
 }
