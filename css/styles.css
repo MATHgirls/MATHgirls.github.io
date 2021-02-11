@@ -106,6 +106,14 @@ p{
 	height: 300px; 
   }
 
+.column1t {
+	/*float: left;*/
+	float: left;
+	width: 33%;
+	padding: 10px;
+	height: 300px; /* Should be removed. Only for demonstration */
+  }
+
 .fa {
 	padding: 7px;
 	font-size: 30px;
@@ -146,6 +154,12 @@ p{
   }
 
   .mySlides {display:none;}
+
+  @media screen and (max-width: 600px) {
+	.column {
+	  width: 100%;
+	}
+  }
 #demo{
 	margin-bottom: 2em;
 }
